@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CFO services, internal/external audits, and bookkeeping at Capital City Accounting.">
+    <title>Services - Capital City Accounting</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Capital City Accounting</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html" class="active">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="content">
+            <h1>Our Services</h1>
+            <ul>
+                <li><strong>CFO Services</strong>: Strategic financial planning, budgeting, and forecasting to drive your business forward.</li>
+                <li><strong>Internal Audits</strong>: Thorough reviews to ensure compliance and optimize internal processes.</li>
+                <li><strong>External Audits</strong>: Independent, reliable audits to meet regulatory requirements and build trust.</li>
+                <li><strong>Bookkeeping</strong>: Accurate record-keeping, payroll, and financial reporting tailored to your needs.</li>
+            </ul>
+            <p><a href="contact.html">Contact us</a> to discuss how we can support your business.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Capital City Accounting. All rights reserved.</p>
+    </footer>
+</body>
+</html>
